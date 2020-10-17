@@ -1,4 +1,4 @@
-![Haskell-logo]()
+![Haskell-logo](https://github.com/shafiunmiraz0/Haskell-Crash-Course/blob/main/Assets/Haskell-Logo.png)
 
 [![Haskell](https://img.shields.io/badge/Haskell%20Programming-Language-253C70?style=for-the-badge)]()
 
