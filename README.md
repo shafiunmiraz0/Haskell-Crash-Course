@@ -9,6 +9,103 @@ Haskell is a general-purpose, statically typed, purely functional programming la
 
 🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
 
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+
+
 ### Features of Haskell Programming Language
 
 🟠 [![Haskell](https://img.shields.io/badge/Server-Side%20Applications-253C70?style=flat)]()
