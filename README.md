@@ -23,23 +23,23 @@ Haskell is a general-purpose, statically typed, purely functional programming la
 
 🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Lists-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-:%20Operator-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-!!%20Operator-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Head%20/%20Last-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Take-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Elem-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Create-Range-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Cycle-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-|%20Operator-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Filter-253C70?style=flat)]()
 
 🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
 
