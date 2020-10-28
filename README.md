@@ -9,15 +9,15 @@ Haskell is a general-purpose, statically typed, purely functional programming la
 
 🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Installation%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Hello-World-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Comments%20in-Haskell%20Programming%20Language-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Data%20Types%20in-Haskell%20Programming%20Language-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Math%20Functions%20in-Haskell%20Programming%20Language-253C70?style=flat)]()
 
 🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
 
