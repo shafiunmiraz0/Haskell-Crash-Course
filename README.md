@@ -43,68 +43,69 @@ Haskell is a general-purpose, statically typed, purely functional programming la
 
 🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-ZipWith-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/More-Filters-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-TakeWhile-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Foldl-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/List-Comprehension-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Tuples-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Zip-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Functions-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Compiling-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Type%20Declarations-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Recursive%20Functions-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Guards-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Where-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-(x:y)-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-As-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Higher-Order%20Functions-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Map-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-(x:xs)-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Pass%20Function-into%20a%20Function-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Returning-a%20Function-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Lambda-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-If-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Case-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Modules-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Enumerations-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Polymorphic-Type-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-$%20Operator-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-.%20Operator-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Type-Classes-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Type-Instance-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Custom-Typeclass-253C70?style=flat)]()
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Haskell%20Programming%20Language-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-File%20I/O-253C70?style=flat)]()
 
+🟠 [![Haskell](https://img.shields.io/badge/Fibonacci-Sequence-253C70?style=flat)]()
 
 ### Features of Haskell Programming Language
 
