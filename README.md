@@ -39,7 +39,7 @@ Haskell is a general-purpose, statically typed, purely functional programming la
 
 🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-|%20Operator-253C70?style=flat)](https://github.com/shafiunmiraz0/Haskell-Crash-Course/tree/main/Vertical%20Line-Operator)
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Filter-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Filter-253C70?style=flat)](https://github.com/shafiunmiraz0/Haskell-Crash-Course/tree/main/Filter)
 
 🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-ZipWith-253C70?style=flat)]()
 
