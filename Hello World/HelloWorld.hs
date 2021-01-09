@@ -8,3 +8,7 @@ main = do {
    }
 
 main = putStrLn "Hello, World!"
+
+
+main :: IO ()
+main = putStrLn "Hello, World!"
