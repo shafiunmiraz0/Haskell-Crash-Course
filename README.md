@@ -91,11 +91,11 @@ Haskell is a general-purpose, statically typed, purely functional programming la
 
 🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-Enumerations-253C70?style=flat)](https://github.com/shafiunmiraz0/Haskell-Crash-Course/tree/main/Enumerations)
 
-🟠 [![Haskell](https://img.shields.io/badge/Polymorphic-Type-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Polymorphic-Type-253C70?style=flat)](https://github.com/shafiunmiraz0/Haskell-Crash-Course/tree/main/Polymorphic%20Type)
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-$%20Operator-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-$%20Operator-253C70?style=flat)](https://github.com/shafiunmiraz0/Haskell-Crash-Course/tree/main/%24%20Operator)
 
-🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-.%20Operator-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-.%20Operator-253C70?style=flat)](https://github.com/shafiunmiraz0/Haskell-Crash-Course/tree/main/.%20Operator)
 
 🟠 [![Haskell](https://img.shields.io/badge/Type-Classes-253C70?style=flat)]()
 
