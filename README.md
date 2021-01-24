@@ -101,7 +101,7 @@ Haskell is a general-purpose, statically typed, purely functional programming la
 
 🟠 [![Haskell](https://img.shields.io/badge/Type-Instance-253C70?style=flat)](https://github.com/shafiunmiraz0/Haskell-Crash-Course/tree/main/Type%20Instance)
 
-🟠 [![Haskell](https://img.shields.io/badge/Custom-Typeclass-253C70?style=flat)]()
+🟠 [![Haskell](https://img.shields.io/badge/Custom-Typeclass-253C70?style=flat)](https://github.com/shafiunmiraz0/Haskell-Crash-Course/tree/main/Custom%20Typeclass)
 
 🟠 [![Haskell](https://img.shields.io/badge/Introduction%20of-File%20I/O-253C70?style=flat)](https://github.com/shafiunmiraz0/Haskell-Crash-Course/tree/main/File%20I%20O)
 
